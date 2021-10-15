@@ -1,4 +1,4 @@
-# Arbitrary_Precision
+# Arbitrary Precision
 This is for the lab#A of the course Application Acceleration with High-Level-Synthesis and the design files are from the course.
 
 Two different designs are in this repo:
